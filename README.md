@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there, I'm Yash</h1>
 
-- I am currently working as a Software Engineer Intern at **Chainguard**.
+- I am currently working as a Software Engineer at **Chainguard**.
 - I’m an AWS Community Builder and a CNCF Ambassador.
 - Previously, I worked as a DevOps Engineer Intern at **Nirmata** and **Cloudraft**.
 
